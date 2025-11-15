@@ -1,0 +1,263 @@
+countryiso3code,year,gdp_per_capita_usd,unit,obs_status,decimal,indicator.id,indicator.value,country.id,country
+AFG,2023,413.757894705303,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AF,Afghanistan
+AFE,2024,1567.63583892828,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZH,Africa Eastern and Southern
+AFW,2024,1284.15444092323,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZI,Africa Western and Central
+ALB,2024,10011.6279856667,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AL,Albania
+DZA,2024,5631.17999109851,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),DZ,Algeria
+ASM,2022,18017.4589383973,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AS,American Samoa
+AND,2024,49303.6733899464,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AD,Andorra
+AGO,2024,2122.08368991872,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AO,Angola
+ATG,2024,23725.7903725506,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AG,Antigua and Barbuda
+ARB,2024,7521.15330929761,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),1A,Arab World
+ARG,2024,13858.2039802008,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AR,Argentina
+ARM,2024,8500.60522486719,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AM,Armenia
+ABW,2023,33984.7906198041,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AW,Aruba
+AUS,2024,64407.484256932,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AU,Australia
+AUT,2024,56833.1960472053,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AT,Austria
+AZE,2024,7283.83562954872,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AZ,Azerbaijan
+BHS,2024,39455.4466548546,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BS,"Bahamas, The"
+BHR,2024,30048.2177718844,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BH,Bahrain
+BGD,2024,2593.41607390407,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BD,Bangladesh
+BRB,2024,25365.7949424181,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BB,Barbados
+BLR,2024,8316.64776291533,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BY,Belarus
+BEL,2024,55954.6106261018,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BE,Belgium
+BLZ,2024,8429.67959707387,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BZ,Belize
+BEN,2024,1485.38018980894,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BJ,Benin
+BMU,2024,138934.958846463,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BM,Bermuda
+BTN,2023,3839.4093039286,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BT,Bhutan
+BOL,2024,4001.21133990795,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BO,Bolivia
+BIH,2024,8957.37294188215,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BA,Bosnia and Herzegovina
+BWA,2024,7695.2420641819,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BW,Botswana
+BRA,2024,10280.3148624429,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BR,Brazil
+BRN,2024,33417.8357740437,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BN,Brunei Darussalam
+BGR,2024,17412.4115085691,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BG,Bulgaria
+BFA,2024,987.321378101867,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BF,Burkina Faso
+BDI,2024,153.930217854023,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),BI,Burundi
+CPV,2024,5272.85253011419,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CV,Cabo Verde
+KHM,2024,2627.8796974226,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KH,Cambodia
+CMR,2024,1762.3683508844,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CM,Cameroon
+CAN,2024,54282.6176051733,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CA,Canada
+CSS,2024,20173.9564746676,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),S3,Caribbean small states
+CYM,2023,97749.5078960846,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KY,Cayman Islands
+CAF,2024,516.170424537757,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CF,Central African Republic
+CEB,2024,24543.3040551653,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),B8,Central Europe and the Baltics
+TCD,2024,1016.08880662712,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TD,Chad
+CHI,2023,74589.1381155014,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),JG,Channel Islands
+CHL,2024,16709.8893972307,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CL,Chile
+CHN,2024,13303.1481543868,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CN,China
+COL,2024,7913.98801464547,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CO,Colombia
+COM,2024,1784.11546860293,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KM,Comoros
+COD,2024,647.435704836002,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CD,"Congo, Dem. Rep."
+COG,2024,2482.24894743495,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CG,"Congo, Rep."
+CRI,2024,18587.1532203614,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CR,Costa Rica
+CIV,2024,2709.89511641252,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CI,Cote d'Ivoire
+HRV,2024,23931.4528382746,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),HR,Croatia
+CUB,2020,9605.26125067263,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CU,Cuba
+CUW,2023,21061.741639092,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CW,Curacao
+CYP,2024,38654.16796875,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CY,Cyprus
+CZE,2024,31706.6234229743,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CZ,Czechia
+DNK,2024,71851.7562131368,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),DK,Denmark
+DJI,2024,3496.47111876763,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),DJ,Djibouti
+DMA,2024,10405.2787777582,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),DM,Dominica
+DOM,2024,10875.6618443092,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),DO,Dominican Republic
+EAR,2024,4510.25268168449,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),V2,Early-demographic dividend
+EAS,2024,13349.0833109152,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),Z4,East Asia & Pacific
+TEA,2024,10513.9755660123,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),T4,East Asia & Pacific (IDA & IBRD countries)
+EAP,2024,10396.8255168912,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),4E,East Asia & Pacific (excluding high income)
+ECU,2024,6874.705739766,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),EC,Ecuador
+EGY,2024,3338.47371395895,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),EG,"Egypt, Arab Rep."
+SLV,2024,5579.65969165029,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SV,El Salvador
+GNQ,2024,6745.40013244916,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GQ,Equatorial Guinea
+ERI,2011,688.68165957684,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ER,Eritrea
+EST,2024,31170.0915091887,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),EE,Estonia
+SWZ,2024,3936.10969242371,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SZ,Eswatini
+ETH,2022,1011.07332413462,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ET,Ethiopia
+EMU,2024,46724.355622795,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XC,Euro area
+ECS,2024,31392.581963732,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),Z7,Europe & Central Asia
+TEC,2024,13257.56545104,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),T7,Europe & Central Asia (IDA & IBRD countries)
+ECA,2024,9668.56270854153,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),7E,Europe & Central Asia (excluding high income)
+EUU,2024,43145.1566930223,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),EU,European Union
+FRO,2023,71774.3522353393,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),FO,Faroe Islands
+FJI,2024,6288.39867264416,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),FJ,Fiji
+FIN,2024,53188.6186245158,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),FI,Finland
+FCS,2024,1571.8004320986,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),F1,Fragile and conflict affected situations
+FRA,2024,46150.4876861593,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),FR,France
+PYF,2023,22774.1418988734,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PF,French Polynesia
+GAB,2024,8218.76307061848,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GA,Gabon
+GMB,2024,908.525674150965,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GM,"Gambia, The"
+GEO,2024,9193.66366361489,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GE,Georgia
+DEU,2024,55800.2194549412,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),DE,Germany
+GHA,2024,2405.79466378083,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GH,Ghana
+GRC,2024,24752.1068401681,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GR,Greece
+GRL,2023,58498.9743142433,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GL,Greenland
+GRD,2024,11871.6117006031,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GD,Grenada
+GUM,2022,41833.1517132825,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GU,Guam
+GTM,2024,6150.02597767851,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GT,Guatemala
+GIN,2024,1717.02318120779,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GN,Guinea
+GNB,2024,962.983627901892,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GW,Guinea-Bissau
+GUY,2024,29883.6341152001,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GY,Guyana
+HTI,2024,2142.62330526788,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),HT,Haiti
+HPC,2024,1202.76979412349,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XE,Heavily indebted poor countries (HIPC)
+,2024,50443.9276011316,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XD,High income
+HND,2024,3426.43483328923,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),HN,Honduras
+HKG,2024,54107.034521746,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),HK,"Hong Kong SAR, China"
+HUN,2024,23310.7512733957,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),HU,Hungary
+IBD,2024,8253.92125275536,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XF,IBRD only
+IBT,2024,6340.63327027503,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZT,IDA & IBRD total
+IDB,2024,1565.83627113068,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XH,IDA blend
+IDX,2024,1387.92937311476,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XI,IDA only
+IDA,2024,1441.90853142035,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XG,IDA total
+ISL,2024,82703.8579937471,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IS,Iceland
+IND,2024,2696.66389984463,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IN,India
+IDN,2024,4925.43048751861,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ID,Indonesia
+IRN,2024,4771.40029026226,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IR,"Iran, Islamic Rep."
+IRQ,2024,6073.61032342708,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IQ,Iraq
+IRL,2024,107316.337306921,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IE,Ireland
+IMN,2022,88328.548125887,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IM,Isle of Man
+ISR,2024,54176.6844383302,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IL,Israel
+ITA,2024,40226.0472416173,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),IT,Italy
+JAM,2024,7019.74634780454,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),JM,Jamaica
+JPN,2024,32475.8924992191,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),JP,Japan
+JOR,2024,4618.09592498567,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),JO,Jordan
+KAZ,2024,14005.3487362345,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KZ,Kazakhstan
+KEN,2024,2206.1349785176,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KE,Kenya
+KIR,2024,2288.63458265531,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KI,Kiribati
+KOR,2023,33121.3712885508,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KR,"Korea, Rep."
+XKX,2024,7299.43498083118,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XK,Kosovo
+KWT,2024,32213.8622292316,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KW,Kuwait
+KGZ,2024,2419.26553574523,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KG,Kyrgyz Republic
+LAO,2024,2123.97909411797,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LA,Lao PDR
+LTE,2024,12843.3344406811,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),V3,Late-demographic dividend
+LCN,2024,11044.6796556507,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZJ,Latin America & Caribbean
+LAC,2024,10344.66889924,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XJ,Latin America & Caribbean (excluding high income)
+TLA,2024,10784.3171528207,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),T2,Latin America & the Caribbean (IDA & IBRD countries)
+LVA,2024,23367.5986788961,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LV,Latvia
+LDC,2024,1258.9400116614,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XL,Least developed countries: UN classification
+LBN,2023,3477.72489842684,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LB,Lebanon
+LSO,2024,971.814620468788,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LS,Lesotho
+LBR,2024,846.277368387389,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LR,Liberia
+LBY,2024,6318.40314031017,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LY,Libya
+LIE,2023,207973.617746758,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LI,Liechtenstein
+LTU,2024,29386.2878350187,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LT,Lithuania
+LMY,2024,5974.80452228263,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XO,Low & middle income
+,2024,746.934788844338,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XM,Low income
+,2024,2517.63261211924,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XN,Lower middle income
+LUX,2024,137516.587324367,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LU,Luxembourg
+MAC,2024,73046.8890267079,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MO,"Macao SAR, China"
+MDG,2024,544.997302693127,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MG,Madagascar
+MWI,2024,508.371273531708,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MW,Malawi
+MYS,2024,11867.2586435443,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MY,Malaysia
+MDV,2024,13215.5353637008,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MV,Maldives
+MLI,2024,1086.1762176779,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ML,Mali
+MLT,2024,42347.3073860173,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MT,Malta
+MHL,2024,7466.65186507409,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MH,Marshall Islands
+MRT,2024,2082.78374423714,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MR,Mauritania
+MUS,2024,11871.733679438,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MU,Mauritius
+MEX,2024,14157.9445835849,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MX,Mexico
+FSM,2024,4166.00476748564,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),FM,"Micronesia, Fed. Sts."
+MEA,2024,6180.85878446824,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZQ,"Middle East, North Africa, Afghanistan & Pakistan"
+TMN,2024,2905.83377209255,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),T3,"Middle East, North Africa, Afghanistan & Pakistan (IDA & IBRD)"
+MNA,2024,2903.59793979158,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XQ,"Middle East, North Africa, Afghanistan & Pakistan (excluding high income)"
+MIC,2024,6524.2573581605,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XP,Middle income
+MDA,2024,7617.51613089815,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MD,Moldova
+MCO,2023,256580.515122745,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MC,Monaco
+MNG,2024,6691.48209834228,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MN,Mongolia
+MNE,2024,12935.4522712126,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ME,Montenegro
+MAR,2024,3993.38745117188,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MA,Morocco
+MOZ,2024,647.28579950207,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MZ,Mozambique
+MMR,2024,1359.25961394135,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MM,Myanmar
+NAM,2024,4413.1274418646,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NA,Namibia
+NRU,2024,13421.8330584638,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NR,Nauru
+NPL,2024,1447.31004458428,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NP,Nepal
+NLD,2024,68218.7261019406,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NL,Netherlands
+NCL,2022,33516.363085906,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NC,New Caledonia
+NZL,2024,48747.0136853042,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NZ,New Zealand
+NIC,2024,2847.53966339498,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NI,Nicaragua
+NER,2024,722.748650326257,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NE,Niger
+NGA,2024,806.945695055244,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NG,Nigeria
+NAC,2024,82406.4788664869,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XU,North America
+MKD,2024,9310.02790015256,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MK,North Macedonia
+MNP,2022,23785.754590043,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MP,Northern Mariana Islands
+NOR,2024,86809.7246897431,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),NO,Norway
+OED,2024,48454.6975400673,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),OE,OECD members
+OMN,2024,20248.4168124608,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),OM,Oman
+OSS,2024,15867.6733515992,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),S4,Other small states
+PSS,2024,4399.41105391407,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),S2,Pacific island small states
+PAK,2024,1484.74985864775,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PK,Pakistan
+PLW,2023,15899.4246065324,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PW,Palau
+PAN,2024,19102.8521936399,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PA,Panama
+PNG,2024,3076.48786186584,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PG,Papua New Guinea
+PRY,2024,6416.09709002917,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PY,Paraguay
+PER,2024,8452.37167047598,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PE,Peru
+PHL,2024,3984.8315387656,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PH,Philippines
+POL,2024,25022.6716445953,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PL,Poland
+PRT,2024,28844.4979246799,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PT,Portugal
+PST,2024,55865.7865373976,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),V4,Post-demographic dividend
+PRE,2024,1290.20000126508,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),V1,Pre-demographic dividend
+PRI,2024,39285.0174585856,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PR,Puerto Rico (US)
+QAT,2024,76275.9076782833,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),QA,Qatar
+ROU,2024,20072.4079244042,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),RO,Romania
+RUS,2024,14889.0185546875,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),RU,Russian Federation
+RWA,2024,999.654561402699,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),RW,Rwanda
+WSM,2024,4898.77140817676,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),WS,Samoa
+SMR,2022,54264.570495898,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SM,San Marino
+STP,2024,3244.82899741459,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ST,Sao Tome and Principe
+SAU,2024,35057.2252306969,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SA,Saudi Arabia
+SEN,2024,1743.98888384359,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SN,Senegal
+SRB,2024,13523.7246826854,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),RS,Serbia
+SYC,2024,17858.8226383978,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SC,Seychelles
+SLE,2024,873.388575182318,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SL,Sierra Leone
+SGP,2024,90674.066632628,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SG,Singapore
+SXM,2024,40027.9175992113,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SX,Sint Maarten (Dutch part)
+SVK,2024,26147.9028430133,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SK,Slovak Republic
+SVN,2024,34089.3527652778,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SI,Slovenia
+SST,2024,15291.69576976,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),S1,Small states
+SLB,2024,2149.37957267304,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SB,Solomon Islands
+SOM,2024,636.983477589273,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SO,"Somalia, Fed. Rep."
+ZAF,2024,6253.37158194543,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZA,South Africa
+SAS,2024,2691.64556264089,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),8S,South Asia
+TSA,2024,2691.64556264089,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),T5,South Asia (IDA & IBRD)
+SSD,2015,1080.14718624765,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SS,South Sudan
+ESP,2024,35297.0094995565,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ES,Spain
+LKA,2024,4515.56787322732,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LK,Sri Lanka
+KNA,2024,22771.4168922033,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),KN,St. Kitts and Nevis
+LCA,2024,14181.6303351598,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),LC,St. Lucia
+MAF,2021,21668.3740927942,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),MF,St. Martin (French part)
+VCT,2024,11501.2265187188,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),VC,St. Vincent and the Grenadines
+SSF,2024,1441.32038465812,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZG,Sub-Saharan Africa
+TSS,2024,1441.32038465812,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),T6,Sub-Saharan Africa (IDA & IBRD countries)
+SSA,2024,1506.22853698028,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZF,Sub-Saharan Africa (excluding high income)
+SDN,2024,989.312866210938,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SD,Sudan
+SUR,2024,7430.70219176443,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SR,Suriname
+SWE,2024,57723.2345031532,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SE,Sweden
+CHE,2024,103669.872008144,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),CH,Switzerland
+SYR,2023,847.372723418531,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),SY,Syrian Arab Republic
+TJK,2024,1341.20229027672,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TJ,Tajikistan
+TZA,2024,1185.74548339844,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TZ,Tanzania
+THA,2024,7345.13569000377,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TH,Thailand
+TLS,2024,1343.14886031844,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TL,Timor-Leste
+TGO,2024,1043.14092889765,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TG,Togo
+TON,2023,4863.76384632192,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TO,Tonga
+TTO,2024,19314.7163432664,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TT,Trinidad and Tobago
+TUN,2024,4350.3717971875,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TN,Tunisia
+TUR,2024,15473.2872636856,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TR,Turkiye
+TKM,2024,8571.60702949432,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TM,Turkmenistan
+TCA,2024,37506.7798431288,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TC,Turks and Caicos Islands
+TUV,2023,6344.7750188689,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),TV,Tuvalu
+UGA,2024,1072.71369837695,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),UG,Uganda
+UKR,2024,5389.47314453125,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),UA,Ukraine
+ARE,2024,49377.5643384379,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),AE,United Arab Emirates
+GBR,2024,52636.7865943853,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),GB,United Kingdom
+USA,2024,85809.9003846356,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),US,United States
+,2024,10961.8184459945,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),XT,Upper middle income
+URY,2024,23906.5133029408,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),UY,Uruguay
+UZB,2024,3161.70010632875,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),UZ,Uzbekistan
+VUT,2024,3542.81071592874,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),VU,Vanuatu
+VEN,2014,15943.6127197163,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),VE,"Venezuela, RB"
+VNM,2024,4717.29028732449,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),VN,Viet Nam
+VIR,2022,44320.909185774,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),VI,Virgin Islands (U.S.)
+PSE,2024,2592.30591217647,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),PS,West Bank and Gaza
+WLD,2024,13663.9924550685,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),1W,World
+YEM,2018,633.887202450998,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),YE,"Yemen, Rep."
+ZMB,2024,1235.08466482514,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZM,Zambia
+ZWE,2024,2656.40937654332,,,1,NY.GDP.PCAP.CD,GDP per capita (current US$),ZW,Zimbabwe
